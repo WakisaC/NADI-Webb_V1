@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$/../NADI_District_">
+    <envs>
+      <env name="DEBUG" value="NADI_District_:*" />
+    </envs>
+    <browser url="http://localhost:3000/" />
+    <profiling log-folder="../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_" />
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+      <profiling log-folder="../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_/../../NADI_District_" />
+    </EXTENSION>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser url="http://localhost:3000/" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>
